@@ -4,7 +4,7 @@ body{
 
 #dice_space{
   position: absolute;
-  right: 22%;
+  left: 50%;
 }
 
 #dice_space div{
